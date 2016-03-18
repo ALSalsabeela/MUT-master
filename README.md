@@ -1,3 +1,5 @@
+
+
 Most Used Tools (MUT) is a project have most used tools in android collected in one project 
 
 
@@ -212,7 +214,7 @@ do this thing easily
                                                   ============================================================================
 Finally 2 windows applications
 1-Android programming helper 
-first function webservice >> it used to generate android code and php queries to save your time just you will select some spinners and buttons
+first function webservice >> it used to generate android code and sql queries to save your time just you will select some spinners and buttons
 second function GetColor >> it have all colors just choose color you like and it will print an xml code of this color 
 third function Multilanguage >>  you will write the word and it's translate and it will generate code for both language in android
 finally >> so important sites like
@@ -223,4 +225,7 @@ almost all known libararies for android
 and more sites 
 
 2-Program solve some of most known problems like adb is using , avd ... , etc... just run the program but first close all the programs on your pc 
-
+                                               
+                                                               In code
+                          //You will find the permssion need for every function to go wrote in comment near it 
+                         //You will find the sites which i used to create this project like image loader 
