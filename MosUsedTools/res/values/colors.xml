@@ -1,0 +1,38 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+  <item name="blue" type="color">#5BB9EC</item>
+    <item name="blue2" type="color">#30A3E5</item>
+    <item name="spliter" type="color">#BCBCBC</item>
+    <item name="graylevel3" type="color">#616161</item>
+    <item name="graylevel1" type="color">#C7C7C7</item>
+    <item name="graylevel2" type="color">#848484</item>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="white2" type="color">#EBEBEB</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <item name="darkorange" type="color">#FFFF8800</item>
+    <item name="imgbackground" type="color">#E3E3E3</item>
+    <item name="darkred" type="color">#FFCC0000</item>
+    <item name="lightblue" type="color">20B2AA</item>
+    <item name="tomato" type="color">#FF6347</item>
+    <item name="light_gray" type="color">#bbbbbb</item>
+    <item name="light_purple_button" type="color">#e1d2f3</item>
+    <item name="pressed_purple_button" type="color">#ba9dda</item>
+    <item name="foucsed_purple_button" type="color">#d6c3ed</item>
+    <item name="color_text" type="color">#250054</item>
+    <item name="whiteblue" type="color">#1B94F7</item>
+    <item name="light_purple_background" type="color">#e9e4ed</item>
+    <item name="darkblue" type="color">#0652D3</item>
+        <color name="list_item_title">#fff</color>
+    <color name="list_background">#333333</color>
+    <color name="list_background_pressed">#7F8708</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

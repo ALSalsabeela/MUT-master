@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/amazingbackground"
+    tools:context="${relativePackage}.${activityClass}"
+     >
+
+    <ImageView
+        android:id="@+id/circle_image"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:layout_margin="5dp"
+        android:src="@drawable/notpic" />
+    
+    <ImageView
+        android:id="@+id/border_image"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:scaleType="fitXY" 
+        android:layout_margin="5dp"
+        android:src="@drawable/notpic"/>
+
+</LinearLayout>

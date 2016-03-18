@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidProgrammingHelper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="web_service">Connect To WebService</string>
+    <string name="upload_files">Upload Files</string>
+    <string name="title_activity_web_service">WebService</string>
+    
+</resources>

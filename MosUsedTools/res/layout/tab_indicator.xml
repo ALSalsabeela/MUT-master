@@ -1,0 +1,27 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:id="@+id/tablayout"
+     
+    >
+
+    <ImageView
+        android:id="@android:id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/drawer2"
+        android:layout_margin="2dp"
+        android:layout_gravity="center_vertical"
+         />
+
+    <TextView
+        android:id="@android:id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:text="Mohamed"
+         android:layout_margin="2dp"
+         android:layout_gravity="center_vertical"
+         />
+    </LinearLayout>

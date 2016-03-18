@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_drawer_items">
+        <item>Main Page</item>
+        <item>Map Page</item>
+        <item>Tabs Page</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/drawer2</item>
+        <item>@drawable/drawer3</item>
+        <item>@drawable/drawer4</item>
+    </array>
+
+    <string name="action_settings">Settings</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="mail">E-mail</string>
+    <string name="sel_img">Select Image</string>
+    <string name="about_grand">We are a creative webdesign and solutions company based in Cairo . We originally started in 2003 . We have an excellent track record and have helped hundreds of companies to take there place on the internet . Thanks to our growing Cairo based team of 20 professional web designers, creative graphic designers, project managers and search engine optimisation experts we can provide the designs, systems and solutions that guarantee your website is noticed for all the right reasons. </string>
+    <string name="sel_file">Select File</string>
+    <string name="upload">Upload</string>
+    <string name="app_name">MUT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_tools">Tools</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mainfragment">Welcome To Main Fragment </string>
+    <string name="title_activity_google_map">GoogleMap</string>
+    <string name="anim_camera">Animate Camera</string>
+    <string name="draw_line">Draw Line</string>
+    <string name="custom_marker">Custom Marker</string>
+    <string name="ok">OK</string>
+    <string name="name">Tefa Alhwa</string>
+    <string name="title_activity_notifications">Notifications</string>
+    <string name="most_att">Most Attributes</string>
+    <string name="most_known">Big Image</string>
+    <string name="with_button">Notification With Button</string>
+    <string name="title_activity_image_loader">ImageLoader</string>
+    <string name="title_activity_drawer_parent">DrawerParent</string>
+    <string name="title_activity_main_fragment">MainFragment</string>
+    <string name="title_activity_tabs_parent">TabsParent</string>
+    <string name="title_activity_tab_map">TabMap</string>
+    <string name="title_activity_connect_to_web_services">ConnectToWebServices</string>
+    <string name="insert">Insert</string>
+    <string name="select">Select</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="start">Start</string>
+    <string name="title_activity_animation_activities">AnimationActivities</string>
+    <string name="title_activity_activity_animations">ActivityAnimations</string>
+    <string name="title_activity_animation_example">AnimationExample</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="start_act">Start Activities</string>
+    <string name="tab_men">Slide Menue and Tabs</string>
+    <string name="most_used">Most used functions</string>
+    <string name="web_file">WebService and UpFiles</string>
+    <string name="list_view">List View</string>
+    <string name="image_down">Image Download</string>
+    <string name="map">Map</string>
+    <string name="notifications">Notifications</string>
+    <string name="about_us">About US</string>
+    <string name="anim">Animations</string>
+    <string name="title_activity_go_to_activities">GoToActivities</string>
+    <string name="title_activity_start_activities">StartActivities</string>
+    <string name="left_right">Left To Right</string>
+    <string name="top_down">Top To Down</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="noanimation">No Animations</string>
+    <string name="customanim">Custom Animation</string>
+    <string name="title_activity_about_us">AboutUs</string>
+
+</resources>
