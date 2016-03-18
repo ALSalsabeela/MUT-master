@@ -57,7 +57,8 @@ ________________________________________________________________________________
 It's a class that used to get distance and time between 2 locations not only you can also draw line on map (draw line like you see in google map not just connect the 
 2 locations)  
 
-Example
+Example  
+
                 RouteInformations rInformation = new RouteInformations(new AsyncResponse() {
 					
 					@Override
@@ -100,7 +101,7 @@ WebServiceHelper.defaultUrl="http://192.168.1.6/go.php";
 
 //first add data to json (you can also add images or files until 30 megabytes ) just convert it to string and i also created the method that will do this job
 
-JSONObject json=new JSONObject();
+     JSONObject json=new JSONObject();
 		try {
 			json.put("method","insert");
 			json.put("mail",""+mail.getText());
@@ -108,7 +109,7 @@ JSONObject json=new JSONObject();
 			} catch (JSONException e) {
 			e.printStackTrace();
 		}
-WebServiceHelper wbh=new WebServiceHelper(new ServieceAsyncResponse() {
+              WebServiceHelper wbh=new WebServiceHelper(new ServieceAsyncResponse() {
 			@Override
 			public void processFinish(WebServiceResult output) 
 			{
@@ -119,10 +120,10 @@ WebServiceHelper wbh=new WebServiceHelper(new ServieceAsyncResponse() {
 				output.getJsonString();// it return a string that ready to use with jsonarray 
 				output.getString();//it return the data which will print from the webservice
 				output.getConnectionResult();.
-			}
-		});
+	  		}
+	        	});
 		
-		wbh.execute(json); // here start execute
+	  	wbh.execute(json); // here start execute
 
                                                   ============================================================================
 
