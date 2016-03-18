@@ -58,7 +58,7 @@ It's a class that used to get distance and time between 2 locations not only you
 2 locations)  
 
 Example
- RouteInformations rInformation = new RouteInformations(new AsyncResponse() {
+                RouteInformations rInformation = new RouteInformations(new AsyncResponse() {
 					
 					@Override
 					public void processFinish(RouteDetails arg0) {
