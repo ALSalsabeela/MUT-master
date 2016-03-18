@@ -9,6 +9,7 @@ let's see What's the job of every part ?
 
 [First]
 
+
 (Android libarary and applicatoin) 
 {
 It have classes that do this jobs
@@ -56,12 +57,19 @@ it return true of false
 
 Example 
     Check.isInternetAvailable(); 
+    
     Check.deviceHasGoogleAccount(context);
-    Check.isUrl(str)
-    Check.isNumeric(str)
-    Check.isPhone(str)
-    Check.isMail(str)
-Check.batteryLevel(context) // it return integer have the level of the pattery  %
+    
+    Check.isUrl(str);
+    
+    Check.isNumeric(str);
+    
+    Check.isPhone(str);
+    
+    Check.isMail(str);
+    
+Check.batteryLevel(context); // it return integer have the level of the pattery  %
+
 
 ______________________________________________________________________________________________________________________________________________________________________
 
@@ -102,11 +110,13 @@ ________________________________________________________________________________
 
 (3)WebServiceHelper Class
 
+
 For sure we use webServices so much this time you can use it easily just 5-6 lines not only i created the other part using php in php you just need to write 3 or 4 lines of code
 
 Example
 
 1-Andriod Part
+
 
 WebServiceHelper >> it's a class that takes a url and json with data which you want to send to the webServices it works in background 
 
@@ -141,8 +151,11 @@ WebServiceHelper.defaultUrl="http://192.168.1.6/go.php";
                                                   ============================================================================
 
 2-Php Part
+
 It have many functions that will help you just 
+
 include 'MUT.php';
+
 and update the connection configurations in MUT file 
 
 then you can use this functions 
@@ -176,20 +189,26 @@ ________________________________________________________________________________
 
 It have functions that help you to work with files
 1-selectImage(context) // it takes one parameter context it will show 2 chooses camera or gallery then the result will back in onactivityresult
+
 2-selectFile(context,type) // it takes two parameter context and type you can pass type like you want image,audio,video etc.... or * for all kind of files
+
 3-fileToString(selectedPath) // it takes one parameter the path of the file it returns a string after convert the file to string
+
 4-getFileAsString(context, uri) // it takes two parameter context and uri  it returns a string after convert the file to string
 
 ______________________________________________________________________________________________________________________________________________________________________
 
 (5)MUT Class
 It have functions that we use so much like 
+
 a-Toast functions
 MUT.lToast(context,text); //It show long toast it easier than Toast.makeText(context,text,Toast.LENGTH_LONG).show();
 MUT.sToast(context,text); //It show short toast
 MUT.dToast(context,text,duration); //It show toast with duration
 
+
 b-fastDialog(activity,title,message); //It show message dialog with title and message
+
 
 c-settingDialog(activity,action,title,message); //it take activity or context , action , title and message and it show dialog with yes or no to open the settings depend on the action
 ______________________________________________________________________________________________________________________________________________________________________
@@ -203,6 +222,7 @@ this project have
                                                   ============================================================================
 
 2-SlideMenue and Tabs >> every thing handle back in fragments , move between 2 maps without craches , move between tabs which have map without craches (this problems many people face it) and custom tabs
+                                               
                                                   ============================================================================
 
 3-ListView >>  clickable button on item , delete button and custom data on listview you can use the same things with gridview 
@@ -234,6 +254,7 @@ get icons with all sizes for android
 design in photoshop then get xml code
 almost all known libararies for android 
 and more sites 
+
 
 2-Program solve some of most known problems like adb is using , avd ... , etc... just run the program but first close all the programs on your pc 
                                                
