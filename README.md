@@ -68,7 +68,7 @@ Example
     
     Check.isMail(str);
     
-Check.batteryLevel(context); // it return integer have the level of the pattery  %
+    Check.batteryLevel(context); // it return integer have the level of the pattery  %
 
 
 ______________________________________________________________________________________________________________________________________________________________________
