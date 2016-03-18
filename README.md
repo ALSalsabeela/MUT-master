@@ -226,6 +226,7 @@ and more sites
 
 2-Program solve some of most known problems like adb is using , avd ... , etc... just run the program but first close all the programs on your pc 
                                                
+                                                               Note
                                                                In code
                           //You will find the permssion need for every function to go wrote in comment near it 
-                         //You will find the sites which i used to create this project like image loader 
+                         //You will find the sites that helped me to create it for honesty 
