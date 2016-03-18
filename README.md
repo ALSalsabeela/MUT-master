@@ -1,11 +1,14 @@
-Most Used Tools (MUT) it's not just libarary it's some tools to let android developing some easy
+Most Used Tools (MUT) is a project have most used tools in android collected in one project 
 
 
-This package have 2 parts
+This project have 3 parts
+
+let's see What's the job of every part ?
 
 [First]
-(Android libarary and applicatoin) {
-
+(Android libarary and applicatoin) 
+{
+It have classes that do this jobs
 RouteInformations (Help you to get distance , time , draw line between two locations)
 WebServiceHelper(Help you to send and get json , upload files with just 5 or 6 lines of codes i created both parts php and android)
 Check (Check for many things with just one line like mail, url , numbers , bettery level etc...)
@@ -17,11 +20,16 @@ ListView(Like , click on element , delete element and more....)
 DownloadImage(download and cachec images .... )
 }
 
-
 [Second]
 (Windows applicaton program)
 {
-  This application have many tools that help you when you create android apps 
+  This application have some tools that help you when you create android apps
+}
+
+[Third]
+(PHPPart)
+{
+  It have some functions that help you when you create web service 
 }
 
 
@@ -34,12 +42,12 @@ It have manything we used to check this time we just write Check. and you will f
 it return true of false 
 
 Example 
-Check.isInternetAvailable(); 
-Check.deviceHasGoogleAccount(context);
-Check.isUrl(str)
-Check.isNumeric(str)
-Check.isPhone(str)
-Check.isMail(str)
+    Check.isInternetAvailable(); 
+    Check.deviceHasGoogleAccount(context);
+    Check.isUrl(str)
+    Check.isNumeric(str)
+    Check.isPhone(str)
+    Check.isMail(str)
 Check.batteryLevel(context) // it return integer have the level of the pattery  %
 
 ______________________________________________________________________________________________________________________________________________________________________
