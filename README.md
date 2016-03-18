@@ -1,8 +1,10 @@
 
 
-Video in arabic https://www.youtube.com/watch?v=N3LTDB2oOR8&feature=youtu.be
 
-Most Used Tools (MUT) is a project have most used function , classes and controls in android collected in one project 
+
+Most Used Tools (MUT) is a project have most used functions , classes and controls in android collected in one project 
+
+Video explain the project in arabic https://www.youtube.com/watch?v=N3LTDB2oOR8&feature=youtu.be
 
 This project have 3 parts
 
