@@ -120,11 +120,11 @@ Example
 
 WebServiceHelper >> it's a class that takes a url and json with data which you want to send to the webServices it works in background 
 
-WebServiceHelper.defaultUrl="http://192.168.1.6/go.php";
+     WebServiceHelper.defaultUrl="http://192.168.1.6/go.php";
 
-//first add data to json (you can also add images or files until 30 megabytes ) just convert it to string and i also created the method that will do this job
-
-     JSONObject json=new JSONObject();
+           //first add data to json (you can also add images or files until 30 megabytes ) just convert it to string and i also created              the method that will do this job
+ 
+        JSONObject json=new JSONObject();
 		try {
 			json.put("method","insert");
 			json.put("mail",""+mail.getText());
