@@ -8,10 +8,8 @@ This project have 3 parts
 let's see What's the job of every part ?
 
 [First]
+
 (Android libarary and applicatoin) 
-
-
-   
 {
 It have classes that do this jobs
    
