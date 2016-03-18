@@ -219,32 +219,32 @@ I also create a big program which use most needed things and i almost used all f
 this project have 
 1-Activities >> Many ways to open activity left to right , up to down , diagonal , and no animation 
 
-                                    ============================================================================
+                           ============================================================================
                                     
 2-SlideMenue and Tabs >> every thing handle back in fragments , move between 2 maps without craches , move between tabs which have map without craches (this problems many people face it) and custom tabs
 
-                                    ============================================================================
+                           ============================================================================
 
 3-ListView >>  clickable button on item , delete button and custom data on listview you can use the same things with gridview 
 
-                                    ============================================================================
+                           ============================================================================
 
 4-Notifications >> almost every thing about notification (Notification with every thing contant , title , bigtext , icon and more) , (Notification with big Image) and (Notification with buttons)
 
-                                    ============================================================================
+                           ============================================================================
                                     
 5-Maps >> Animate Camera , add marker , dragmarker , click on marker , custom marker , click on map , click on get location button , draw line , get time , get distance and more about maps 
 
-                                     ============================================================================
+                           ============================================================================
                                      
 6-Download images >> it's not just download the image it also can cache it just some small codes i used the best of the best libarary ImageLoader libarary it can
 do this thing easily
 
-                                     ============================================================================
+                           ============================================================================
                                      
 7-Animations >> some known animations i got so nice example from the internet and used it 
 
-                                     ============================================================================
+                           ============================================================================
                                      
 Finally 2 windows applications
 1-Android programming helper 
